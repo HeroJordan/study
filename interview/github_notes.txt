@@ -1,0 +1,15 @@
+1. Introduction: https://en.wikipedia.org/wiki/GitHub
+
+2. Proxy setting 
+	1) Configure Git to use a proxy 
+		https://gist.github.com/evantoli/f8c23a37eb3558ab8765
+	
+	2)	command: git config --global http.proxy proxy-szn:80
+
+3.  tutorials
+	1) An Intro to Git and GitHub for Beginners 
+		http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+		
+	*2) https://guides.github.com/
+	
+	

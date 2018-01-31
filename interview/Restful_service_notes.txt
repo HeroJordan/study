@@ -1,0 +1,7 @@
+1. Introduction: https://en.wikipedia.org/wiki/Representational_state_transfer
+
+2. Interview Questions
+	https://www.tutorialspoint.com/restful/restful_interview_questions.htm
+	(*) http://www.softwaretestinghelp.com/restful-web-services-interview-question/
+	
+3. Sample

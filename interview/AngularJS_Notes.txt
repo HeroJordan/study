@@ -1,0 +1,12 @@
+1. Introduction: https://en.wikipedia.org/wiki/AngularJS
+	
+2. Interview questions
+   1) http://www.c-sharpcorner.com/article/top-50-angularjs-interview-questions-and-answers/(major)
+   2) https://www.codementor.io/blog/angularjs-interview-questions-sample-answers-du1081n7p
+   
+   
+3. Official Site:  https://angularjs.org/
+
+4. Samples:
+	https://www.w3schools.com/angular/angular_examples.asp
+	

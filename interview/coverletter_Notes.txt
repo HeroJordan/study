@@ -1,0 +1,6 @@
+Cover letter
+As a project manager, I have excellent project organize and planning skills and good project implement and controlling capability.
+I had worked in Singapore for 2 years time, at that time, we have totally 30 team members, 13 QAs and 17 developers. All my team members are from mutilple nations. We had got a lot of praise from the customer.
+
+As a senior developer, I have more than 15 years experience, and I am proficient in Core Java, J2EE, Hibernate/ Top Link, Spring, OSGI, Maven, struts, JBPM,JSP, JQuery, JavaScript, Familiar with Java Swing, Flex, C#.,SQL,PL/SQL, Oracle Database, SQL-server, hands-on experience with oracle SQL performance tuning. My responsibilities are requirement analysing , designing, coding, unit testing, and integrationg testing.
+

@@ -1,0 +1,16 @@
+1. Introduction: https://en.wikipedia.org/wiki/Node.js
+	
+2. Interview questions
+   1) https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/
+   2) https://career.guru99.com/top-25-interview-questions-on-node-js/(major)
+   
+   
+3. Official Site:  https://nodejs.org/en/
+
+4. Samples:
+	https://nodejs.org/en/docs/guides/getting-started-guide/
+	
+5. Set up ENV 
+	http://blog.teamtreehouse.com/install-node-js-npm-windows	
+	There is no need to restart the PC.
+	

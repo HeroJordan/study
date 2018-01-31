@@ -1,0 +1,12 @@
+1. Introduction: https://en.wikipedia.org/wiki/HTML5
+
+2. Interview questions
+   1) https://www.toptal.com/html5/interview-questions (major)
+   2) http://www.careerride.com/HTML5-Interview-Questions.aspx
+   
+   
+3. Standard(HTML Specification):  https://www.w3.org/TR/html/
+
+4. Samples:
+	https://www.w3schools.com/html/html5_intro.asp
+	

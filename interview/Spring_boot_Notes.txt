@@ -1,0 +1,12 @@
+1. Introduction
+	1) https://en.wikipedia.org/wiki/Spring_Framework
+	2) https://projects.spring.io/spring-boot/
+	
+2. Interview questions
+	1) https://www.dineshonjava.com/spring-boot-interview-questions-and-answers/
+	2) (*) http://www.javainuse.com/spring/SpringBootInterviewQuestions
+	
+3. Developing your first Spring Boot application
+   https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started-first-application.html
+   
+4. 

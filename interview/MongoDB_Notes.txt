@@ -1,0 +1,12 @@
+1. Introduction: https://en.wikipedia.org/wiki/MongoDB
+
+2. Interview questions:
+	https://www.datasciencecentral.com/profiles/blogs/70-mongodb-interview-questions-and-answers
+	
+3. Official website:
+	https://www.mongodb.com/
+
+4. Repository: 	github.com/mongodb/mongo
+
+5.
+	
